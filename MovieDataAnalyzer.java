@@ -1,4 +1,11 @@
 
+/*
+ * Name: Puneetpal Powar
+ * Project: Movie Data Analyzer
+ * Date: Feb 19th, 2020
+ * Version: 1
+ * Description: This project can give you the average statistics of movie reviews
+ */
 //Imports needed for the code
 import java.io.File;
 import java.io.FileNotFoundException;
@@ -10,7 +17,7 @@ import java.util.Scanner;
  *
  * @author YOU
  */
-public class MovieReview {
+public class MovieDataAnalyzer {
 
     // CLASS CONSTANTS
     private static final String FS = File.separator;
